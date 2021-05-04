@@ -6,3 +6,4 @@ GitHub上で更新
 conflict-remote上で更新
 GitHub上で更新２回目
 new-feature brancで更新
+rebase-practice-branchで変更
