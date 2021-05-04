@@ -1,8 +1,12 @@
-﻿# git-practice
+# git-practice
 このリポジトリはGit動画講座用です．
 更新中
+<<<<<<< HEAD
 conflictで変更
 GitHub上で更新
 conflict-remote上で更新
 GitHub上で更新２回目
 new-feature brancで更新
+=======
+new-feature brancで更新
+>>>>>>> 3226284 (update README on new-feature)
